@@ -2,6 +2,7 @@
 
 # Assured Contract Farming System for Stable Market Access
 
+
 ## Introduction
 The **Assured Contract Farming System** is a software platform designed to mitigate market access uncertainties faced by farmers and provide stable income through secure contract farming. By connecting farmers and buyers (contractors), the system fosters transparent communication, ensures reliable payments, and facilitates efficient contract management. This project empowers farmers with stable market access and predictable income while reducing risks and uncertainties in the agricultural value chain.
 
