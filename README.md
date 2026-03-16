@@ -8,7 +8,6 @@ The **Assured Contract Farming System** is a software platform designed to mitig
 ## Problem Statement
 Farmers often face fluctuating incomes and unpredictable market conditions, making it difficult to sustain a stable livelihood. Contract farming offers a solution by guaranteeing farmers a buyer for their crops. However, traditional contract farming lacks transparency, leading to issues with trust and payment security. The **Assured Contract Farming System** aims to solve this problem by offering an online platform for transparent contract management, secure payments, and real-time monitoring of crop health.
 
-
 ## Key Features
 The application provides the following modules for both farmers and contractors:
 
